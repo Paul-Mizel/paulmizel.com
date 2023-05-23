@@ -1483,10 +1483,11 @@ section {
   position: relative;
   min-height: 60vh;
   padding: 160px 0 60px 0;
+  border-bottom: 3px rgba(206, 18, 18, 0.8) solid;
 }
 
 .hero h2 {
-  font-size: 48px;
+  font-size: 44px;
   font-weight: 700;
   margin-bottom: 20px;
   color: var(--color-secondary);
