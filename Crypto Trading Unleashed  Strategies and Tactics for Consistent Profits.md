@@ -2,8 +2,7 @@
 ## Strategies and Tactics for Consistent Profits
 
 
-
-
+<table><thead><tr><th>Wallet</th><th>Number of Coins Supported</th><th>Browser Extension</th><th>Mobile Support</th><th>Hardware Wallet</th><th>DApp Integration</th><th>Security Features</th></tr></thead><tbody><tr><td>Trust Wallet</td><td>20,000+</td><td>No</td><td>Yes</td><td>No</td><td>Yes</td><td>Private key control, backup</td></tr><tr><td>MetaMask</td><td>Ethereum and ERC-20</td><td>Yes</td><td>Yes</td><td>No</td><td>Yes</td><td>Private key control, backup</td></tr><tr><td>Ledger Nano S</td><td>1,500+</td><td>No</td><td>No</td><td>Yes</td><td>No</td><td>Offline storage, PIN, backup</td></tr><tr><td>Trezor</td><td>1,600+</td><td>No</td><td>No</td><td>Yes</td><td>No</td><td>Offline storage, PIN, backup</td></tr><tr><td>Coinbase Wallet</td><td>Limited</td><td>No</td><td>Yes</td><td>No</td><td>Yes</td><td>Secure enclave, 2FA</td></tr><tr><td>Exodus</td><td>100+</td><td>No</td><td>Yes</td><td>No</td><td>No</td><td>Private key control, backup</td></tr><tr><td>Atomic Wallet</td><td>500+</td><td>No</td><td>Yes</td><td>No</td><td>No</td><td>Private key control, backup</td></tr></tbody></table>
 
 
 
