@@ -56,12 +56,12 @@
    - Importance of backtesting trading strategies
    - Keeping a trading journal for performance evaluation
 ## 10. Risk and Considerations
-    - Market volatility and unpredictability
-    - Regulatory and legal considerations
-    - Security and protecting your assets
+   - Market volatility and unpredictability
+   - Regulatory and legal considerations
+   - Security and protecting your assets
 ## 11. Conclusion
-    - Recap of key concepts and strategies
-    - Encouragement for continuous learning and improvement
+   - Recap of key concepts and strategies
+   - Encouragement for continuous learning and improvement
     
     
 
