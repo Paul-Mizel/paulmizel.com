@@ -233,4 +233,9 @@ document.addEventListener('DOMContentLoaded', () => {
     aos_init();
   });
 
+  $('.btn-book-modal').on('click', function(e) {
+    var src = $(this).attr('data-src');
+    $("#bookModal iframe").attr({'src':src});
+  });
+
 });

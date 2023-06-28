@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="css/style.css">
 <script src="js/jquery.min.js"></script>
 </head>
-<body>
+<body style="overflow: hidden;margin: 0px;">
 <div class="sample-container-box">
 <div class="sample-container">
 </div>
@@ -22,7 +22,7 @@ pdfJsCMapUrl: 'cmaps'
 <script src="js/3dflipbook.min.js"></script>
 <script type="text/javascript">
 $('.sample-container').FlipBook({
-pdf: 'die-weltausloeschung-evas-vermaechtnis.pdf',
+pdf: window.location.search.split("=")[1]+".pdf", //'die-weltausloeschung.pdf',
 template: {"html":"templates\/default-book-view.html","styles":["css\/font-awesome.min.css","css\/short-black-book-view.css"],"script":"js\/default-book-view.js","sounds":{"startFlip":"sounds\/start-flip.mp3","endFlip":"sounds\/end-flip.mp3"}}  });
 </script>
 </body>

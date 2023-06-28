@@ -114,7 +114,8 @@
             <div class="member-img">
               <img src="assets/img/books/1.jpg" class="img-fluid" alt="">
               <div class="social">
-                <a href=""><i class="bi bi-eye"></i></a>
+                <a href="" class="btn-book-modal" data-bs-toggle="modal" data-bs-target="#bookModal"
+                  data-src="/books/?book=die-weltausloeschung"><i class="bi bi-eye"></i></a>
                 <a href=""><i class="bi bi-bag"></i></a>
               </div>
             </div>
@@ -132,7 +133,7 @@
             <div class="member-img">
               <img src="assets/img/books/2.jpg" class="img-fluid" alt="">
               <div class="social">
-                <a href=""><i class="bi bi-eye"></i></a>
+                <a href="" class="" onclick="return false;"><i class="bi bi-eye"></i></a>
                 <a href=""><i class="bi bi-bag"></i></a>
               </div>
             </div>
@@ -203,12 +204,27 @@
 
 
 
-
-      
-
-
     </div>
   </section><!-- End Gallery Section -->
 
 
 </main><!-- End #main -->
+
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="bookModal" tabindex="-1" aria-labelledby="bookModalLabel" aria-hidden="true"
+  style="display: none;">
+  <div class="modal-dialog modal-fullscreen">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-4" id="bookModalLabel">Book Preview</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <iframe frameborder="0" width="100%" height="100%"></iframe>
+      </div>
+    </div>
+  </div>
+</div>

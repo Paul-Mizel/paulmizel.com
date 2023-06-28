@@ -1061,8 +1061,9 @@ h3 {
   padding-top: min(100%,100vh);
   position: relative;
   background-color: #fafafa;
-  margin-bottom: 25px;
+  margin-bottom: 0px;
 }
+
 .sample-container {
   left: 0;
   top: 0;
