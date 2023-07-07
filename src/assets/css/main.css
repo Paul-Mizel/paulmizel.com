@@ -1670,9 +1670,6 @@ section {
     filter: invert(100%);
 }
 
-.carousel-control-prev {
-  left: -150px !important;
-}
 
 .a-hover{
   opacity: 0.5;
